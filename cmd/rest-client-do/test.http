@@ -1,0 +1,2 @@
+### Simple Request
+GET  https://google.com/ HTTP/1.1
