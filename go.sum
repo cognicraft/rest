@@ -2,5 +2,9 @@ github.com/cognicraft/timeutil v0.0.0-20200114193719-8f36fbd9e80f h1:jRHLLcVJrnE
 github.com/cognicraft/timeutil v0.0.0-20200114193719-8f36fbd9e80f/go.mod h1:Y1vXwu0Jle1rczgm3lSE0KDyjsCWrXPkiLTKF8VObPc=
 github.com/cognicraft/timeutil v0.0.0-20200114194100-1de7b10fa9f1 h1:ekZAjWjnFGow6/I3vPqIPiMUih6mxm2aj9tasz7Fwgg=
 github.com/cognicraft/timeutil v0.0.0-20200114194100-1de7b10fa9f1/go.mod h1:wy/uYGPbMRGm9brNvohS5tEY+FcD7l6Wa4C1TpKJzWI=
+github.com/cognicraft/timeutil v0.1.0 h1:J6hrHD6Id90/zSfuBs+lTEDA6WXLV9X2lTZZVZhGZw4=
+github.com/cognicraft/timeutil v0.1.0/go.mod h1:wy/uYGPbMRGm9brNvohS5tEY+FcD7l6Wa4C1TpKJzWI=
 github.com/cognicraft/uuid v0.0.0-20191018203612-ca14f2f77895 h1:E1pU8G2KVrXIdg5lzYfbWlHtCkl582I7+nXl8ca8S3c=
 github.com/cognicraft/uuid v0.0.0-20191018203612-ca14f2f77895/go.mod h1:sm03FRKkAglOr3fkM+5YuD6kfWJLZ6ZpkJ2ewzwkTeE=
+github.com/cognicraft/uuid v0.1.0 h1:0zWkOFOTYA/MATdS98tz9sAhPNH3xIwVI1Id5uzufgM=
+github.com/cognicraft/uuid v0.1.0/go.mod h1:sm03FRKkAglOr3fkM+5YuD6kfWJLZ6ZpkJ2ewzwkTeE=
